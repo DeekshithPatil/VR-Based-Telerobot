@@ -1,7 +1,7 @@
 /*Connections
  * NRF: Refer Google
  * Joystick:X-Axis->A0,Y-Axis->A1 and power connections
- * Gyroscope:X-Axis->A2,Y-axis->A2 and power connections
+ * Gyroscope:X-Axis->A2,Y-axis->A3and power connections
  */
 
 
